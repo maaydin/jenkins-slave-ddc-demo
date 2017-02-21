@@ -1,0 +1,1 @@
+docker push maaydin/jenkins-slave-ddc-demo

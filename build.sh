@@ -1,0 +1,1 @@
+docker build --rm --build-arg ORACLE_JDK_VERSION=8u121 --build-arg ORACLE_JDK_BUILD_NUMBER=b13 -t maaydin/jenkins-slave-ddc-demo:latest .
